@@ -1,0 +1,10 @@
+
+//*********TYPES**************/
+export const GET_EMPLOYEES_SAGA = 'GET_EMPLOYEES_SAGA';
+export const ADD_EMPLYEE_SAGA = 'ADD_EMPLYEE_SAGA';
+export const DELETE_EMPLYEE_SAGA = 'DELETE_EMPLYEE_SAGA';
+export const UPDATE_EMPLYEES_SAGA = 'UPDATE_EMPLYEES_SAGA';
+export const GET_EMPLOYEES = 'GET_EMPLOYEES';
+export const GET_ERRORS = 'GET_ERRORS';
+export const LIST_LOADING = 'LIST_LOADING';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
